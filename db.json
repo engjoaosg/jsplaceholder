@@ -68,14 +68,14 @@
       "id": 31,
       "title": "non esse culpa molestiae omnis sed opti",
       "thumbnailUrl": "https://drive.google.com/uc?export=view&id=13541y2h7qolHLXCa7693hYOdbXH1X6iE",
-      "numberOfPhotos": 6
+      "numberOfPhotos": 13
     },
     {
       "userId": 1,
       "id": 32,
       "title": "eaque aut omnis a",
       "thumbnailUrl": "https://drive.google.com/uc?export=view&id=1bX4ZS_XZxGuN-8TIltiXrt7UOi5jEnR9",
-      "numberOfPhotos": 4
+      "numberOfPhotos": 3
     }
   ],
   "photos": [
@@ -122,14 +122,14 @@
       "thumbnailUrl": "https://drive.google.com/uc?export=view&id=1MG6oWKD3s9nZ-ZQ0Oln37cPUhlD-nnTl"
     },
     {
-      "albumId": 2,
+      "albumId": 31,
       "id": 7,
       "title": "Foto 7",
       "url": "https://drive.google.com/uc?export=view&id=19obWowq3HEVnGj06RfEzFi_oJlxEA2cw",
       "thumbnailUrl": "https://drive.google.com/uc?export=view&id=19obWowq3HEVnGj06RfEzFi_oJlxEA2cw"
     },
     {
-      "albumId": 2,
+      "albumId": 31,
       "id": 8,
       "title": "Foto 8",
       "url": "https://drive.google.com/uc?export=view&id=1WlUhLd_St3BVwBbWHP-EP0BDEbNyAMY6",
@@ -206,7 +206,7 @@
       "thumbnailUrl": "https://drive.google.com/uc?export=view&id=1efFg0nLZ3MMzOHS0DmoUT-PQH75GfT_M"
     },
     {
-      "albumId": 32,
+      "albumId": 31,
       "id": 97,
       "title": "Foto 15",
       "url": "https://drive.google.com/uc?export=view&id=1AlZwCucskxOYN2Yvh0INp2Yw34o5qnSi",
